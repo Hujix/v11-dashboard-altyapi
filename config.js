@@ -9,10 +9,10 @@ const config = {
   "support": [],
 
   // Your Bot's Token. Available on https://discordapp.com/developers/applications/me
-  "token": "NzYwNzcyNzg2OTU1NzQ3MzI5.X3Q63g.XlIquWCqqIgcFzUK-6lL_mwAK64",
+  "token": "nabıcan",
 
   "dashboard" : {
-    "oauthSecret": "uZQ_cxA8NJw1VHJdMdn71cgWPfEUcbhY",
+    "oauthSecret": "nabıcan",
     "callbackURL": "https://spra.sprabot.tk/callback",
     "sessionSecret": "enterasecrethere",
     "domain": "https://spra.sprabot.tk/",
